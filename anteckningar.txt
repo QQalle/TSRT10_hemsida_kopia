@@ -1,0 +1,29 @@
+centrerade titlar - dåligt
+navbar är ensam
+
+
+Titel:
+- titel längst upp, navbar efter
+- mer padding runt titeln
+
+Medlemsbild:
+- Större namn (kanske även bold om det behövs)
+- Mer plats mellan namn och bilder
+
+tummregel för padding:
+bra att hålla padding värden delbara med 2
+horisontell värde gärna ~dubbel som vertikal
+istället för tråkig enfärgad fill ha en shadow runt knappen
+
+Dokumentation
+- Medella bättre att det är länkar (mellanrum mellan knapparna?, understryken?, blå?, icon (pil eller icon(klot som internet symbol, eller kvadrat med pil))?)
+- (funkade dåligt) - Testa vänsterställa knapparna? (ty för mycket padding) men akta så att det blir inte för mycket obalans
+
+Allmänt:
+- Bort med navbar
+- Större text
+- Bort med justify på text (det som gör att text börjar o slutar på exakt samma plats i alla rader)
+- Bort med centrerade headings
+Mer läsbara undertexter
+- Mer padding under texten (så att headings är närmare texten under än över)
+- Separator mellan delar på texten på sidan, för att det finns för mycket whitespace på sidan
